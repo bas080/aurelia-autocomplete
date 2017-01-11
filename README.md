@@ -1,5 +1,8 @@
 # aurelia-autocomplete
 
+[![Build Status](https://travis-ci.org/SpoonX/aurelia-autocomplete.svg)](https://travis-ci.org/SpoonX/aurelia-autocomplete)
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000?style=plastic)](https://gitter.im/SpoonX/Dev)
+
 An autocomplete component for the aurelia framework.
 
 ## Setup
